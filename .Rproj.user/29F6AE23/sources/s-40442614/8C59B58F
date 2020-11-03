@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "959784733",
     "id" : "8C59B58F",
-    "lastKnownWriteTime" : 1604357028,
-    "last_content_update" : 1604357028,
+    "lastKnownWriteTime" : 1604402827,
+    "last_content_update" : 1604402827904,
     "path" : "~/Dropbox/coding/rproj/missing_data/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "28,20",
-        "scrollLine" : "19"
+        "cursorPosition" : "13,16",
+        "scrollLine" : "2"
     },
     "read_only" : false,
     "read_only_alternatives" : [
