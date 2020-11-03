@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604357031042.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1248109858",
+    "id" : "58D2D9F8",
+    "lastKnownWriteTime" : 1604357028,
+    "last_content_update" : 1604357028,
+    "path" : "~/Dropbox/coding/rproj/missing_data/_output.yml",
+    "project_path" : "_output.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
